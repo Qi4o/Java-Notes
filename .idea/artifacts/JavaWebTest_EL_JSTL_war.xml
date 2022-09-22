@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaWebTest_EL_JSTL:war">
+    <output-path>$PROJECT_DIR$/JavaWebTest_EL_JSTL/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>JavaWebTest_EL_JSTL</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="JavaWebTest_EL_JSTL-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JavaWebTest_EL_JSTL" />
+    </root>
+  </artifact>
+</component>

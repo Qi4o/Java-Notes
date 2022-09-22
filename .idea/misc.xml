@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/008-JavaWebTest" />
+    <file type="web" url="file://$PROJECT_DIR$/009-JavaWebTest_1" />
+    <file type="web" url="file://$PROJECT_DIR$/010-JavaWebTest_EL_JSTL" />
+    <file type="web" url="file://$PROJECT_DIR$/011-Filter" />
+    <file type="web" url="file://$PROJECT_DIR$/013-SpringMVC" />
+    <file type="web" url="file://$PROJECT_DIR$/014-SpringMVC" />
+    <file type="web" url="file://$PROJECT_DIR$/015-SpringMVC" />
+    <file type="web" url="file://$PROJECT_DIR$/016-SpringMVC-rest" />
+    <file type="web" url="file://$PROJECT_DIR$/017-SpringMVC-Demo" />
+    <file type="web" url="file://$PROJECT_DIR$/018-springMVC-annotation" />
+    <file type="web" url="file://$PROJECT_DIR$/019-MyBatisDemo" />
+    <file type="web" url="file://$PROJECT_DIR$/JavaWebTest1" />
+    <file type="web" url="file://$PROJECT_DIR$/SunshineAirlines" />
+    <file type="web" url="file://$PROJECT_DIR$/SunshineAIrlines-2" />
+    <file type="web" url="file://$PROJECT_DIR$/SunshineAirlines1" />
+    <file type="web" url="file://$PROJECT_DIR$/SunshineAirlines4" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JavaWebTest/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWebTest_1/pom.xml" />
+        <option value="$PROJECT_DIR$/JavaWebTest_EL_JSTL/pom.xml" />
+        <option value="$PROJECT_DIR$/SunshineAirlines/pom.xml" />
+        <option value="$PROJECT_DIR$/Filter/pom.xml" />
+        <option value="$PROJECT_DIR$/013-SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/014-SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/015-SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/016-SpringMVC-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/017-SpringMVC-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/018-springMVC-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/019-MyBatisDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/020-MyBatis-Demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/021-MyBatis-DEMO3/pom.xml" />
+        <option value="$PROJECT_DIR$/022-jedis-redisdome/pom.xml" />
+        <option value="$PROJECT_DIR$/023-boot-HelloWorld/pom.xml" />
+        <option value="$PROJECT_DIR$/024-SpringBootWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/024-BootWeb/pom.xml" />
+        <option value="$PROJECT_DIR$/025-rabbitmq-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/ggkt_mp_demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

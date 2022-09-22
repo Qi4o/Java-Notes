@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SunshineAirlines">
+    <output-path>$PROJECT_DIR$/SunshineAirlines/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SunshineAirlines</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SunshineAirlines-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SunshineAirlines:war exploded" />
+    </root>
+  </artifact>
+</component>

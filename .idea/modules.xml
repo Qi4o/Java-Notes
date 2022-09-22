@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/000-Test/000-Test.iml" filepath="$PROJECT_DIR$/000-Test/000-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/001-ThreadTest/001-ThreadTest.iml" filepath="$PROJECT_DIR$/001-ThreadTest/001-ThreadTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/002-StringTest/002-StringTest.iml" filepath="$PROJECT_DIR$/002-StringTest/002-StringTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/003-IO/003-IO.iml" filepath="$PROJECT_DIR$/003-IO/003-IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004-JDBC/004-JDBC.iml" filepath="$PROJECT_DIR$/004-JDBC/004-JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005-Annotation/005-Annotation.iml" filepath="$PROJECT_DIR$/005-Annotation/005-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006-Algorithm/006-Algorithm.iml" filepath="$PROJECT_DIR$/006-Algorithm/006-Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007-DataStructures/007-DataStructures.iml" filepath="$PROJECT_DIR$/007-DataStructures/007-DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/012-Spring5/012-Spring5.iml" filepath="$PROJECT_DIR$/012-Spring5/012-Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/013-SpringMVC/013-SpringMVC.iml" filepath="$PROJECT_DIR$/013-SpringMVC/013-SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014-SpringMVC/014-SpringMVC.iml" filepath="$PROJECT_DIR$/014-SpringMVC/014-SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015-SpringMVC/015-SpringMVC.iml" filepath="$PROJECT_DIR$/015-SpringMVC/015-SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016-SpringMVC-rest/016-SpringMVC-rest.iml" filepath="$PROJECT_DIR$/016-SpringMVC-rest/016-SpringMVC-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017-SpringMVC-Demo/017-SpringMVC-Demo.iml" filepath="$PROJECT_DIR$/017-SpringMVC-Demo/017-SpringMVC-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/018-springMVC-annotation/018-springMVC-annotation.iml" filepath="$PROJECT_DIR$/018-springMVC-annotation/018-springMVC-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/019-MyBatisDemo/019-MyBatisDemo.iml" filepath="$PROJECT_DIR$/019-MyBatisDemo/019-MyBatisDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020-MyBatis-Demo2/020-MyBatis-Demo2.iml" filepath="$PROJECT_DIR$/020-MyBatis-Demo2/020-MyBatis-Demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/021-MyBatis-DEMO3/021-MyBatis-DEMO3.iml" filepath="$PROJECT_DIR$/021-MyBatis-DEMO3/021-MyBatis-DEMO3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/022-jedis-redisdome/022-jedis-redisdome.iml" filepath="$PROJECT_DIR$/022-jedis-redisdome/022-jedis-redisdome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/023-boot-HelloWorld/023-boot-HelloWorld.iml" filepath="$PROJECT_DIR$/023-boot-HelloWorld/023-boot-HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/024-BootWeb/024-BootWeb.iml" filepath="$PROJECT_DIR$/024-BootWeb/024-BootWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/025-rabbitmq-hello/025-rabbitmq-hello.iml" filepath="$PROJECT_DIR$/025-rabbitmq-hello/025-rabbitmq-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IDEACode.iml" filepath="$PROJECT_DIR$/IDEACode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LanQiao/LanQiao.iml" filepath="$PROJECT_DIR$/LanQiao/LanQiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/024-SpringBootWeb/SpringBootWeb.iml" filepath="$PROJECT_DIR$/024-SpringBootWeb/SpringBootWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SunshineAirlines/SunshineAirlines.iml" filepath="$PROJECT_DIR$/SunshineAirlines/SunshineAirlines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ggkt_mp_demo/ggkt_mp_demo.iml" filepath="$PROJECT_DIR$/ggkt_mp_demo/ggkt_mp_demo.iml" />
+    </modules>
+  </component>
+</project>

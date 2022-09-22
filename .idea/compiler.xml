@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="025-rabbitmq-hello" />
+        <module name="014-SpringMVC" />
+        <module name="019-MyBatisDemo" />
+        <module name="016-SpringMVC-rest" />
+        <module name="024-BootWeb" />
+        <module name="015-SpringMVC" />
+        <module name="020-MyBatis-Demo2" />
+        <module name="021-MyBatis-DEMO3" />
+        <module name="SpringBootWeb" />
+        <module name="ggkt_mp_demo" />
+        <module name="017-SpringMVC-Demo" />
+        <module name="023-boot-HelloWorld" />
+        <module name="018-springMVC-annotation" />
+        <module name="022-jedis-redisdome" />
+        <module name="SunshineAirlines" />
+        <module name="013-SpringMVC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="008-JavaWebTest" target="1.8" />
+      <module name="009-JavaWebTest_1" target="1.8" />
+      <module name="010-JavaWebTest_EL_JSTL" target="1.8" />
+      <module name="011-Filter" target="1.8" />
+      <module name="013-SpringMVC" target="8" />
+      <module name="014-SpringMVC" target="8" />
+      <module name="015-SpringMVC" target="8" />
+      <module name="016-SpringMVC-rest" target="8" />
+      <module name="017-SpringMVC-Demo" target="8" />
+      <module name="018-springMVC-annotation" target="8" />
+      <module name="019-MyBatisDemo" target="8" />
+      <module name="020-MyBatis-Demo2" target="8" />
+      <module name="021-MyBatis-DEMO3" target="8" />
+      <module name="022-jedis-redisdome" target="8" />
+      <module name="023-boot-HelloWorld" target="8" />
+      <module name="024-BootWeb" target="1.8" />
+      <module name="024-SpringBootWeb" target="1.8" />
+      <module name="025-rabbitme-hello" target="8" />
+      <module name="025-rabbitmq-hello" target="8" />
+      <module name="ggkt_mp_demo" target="1.8" />
+      <module name="JavaWebTest1" target="1.8" />
+      <module name="SpringBootWeb" target="1.8" />
+      <module name="SunshineAirlines" target="1.8" />
+      <module name="SunshineAIrlines-2" target="1.8" />
+      <module name="SunshineAirlines-3" target="1.8" />
+      <module name="SunshineAirlines1" target="1.8" />
+      <module name="SunshineAirlines4" target="1.8" />
+      <module name="TestCookie" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="023-boot-HelloWorld" options="-parameters" />
+      <module name="024-BootWeb" options="-parameters" />
+      <module name="024-SpringBootWeb" options="-parameters" />
+      <module name="SpringBootWeb" options="-parameters" />
+      <module name="ggkt_mp_demo" options="-parameters" />
+    </option>
+  </component>
+</project>
